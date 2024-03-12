@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.project.CalculatorTests2" tests="14" skipped="0" failures="0" errors="0" timestamp="2024-03-12T18:23:55" hostname="MUNT" time="0.03">
+  <properties/>
+  <testcase name="testScore10()" classname="com.example.project.CalculatorTests2" time="0.014"/>
+  <testcase name="testScore11()" classname="com.example.project.CalculatorTests2" time="0.001"/>
+  <testcase name="testScore12()" classname="com.example.project.CalculatorTests2" time="0.001"/>
+  <testcase name="testScore13()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore14()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore1()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore2()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore3()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore4()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore5()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <testcase name="testScore6()" classname="com.example.project.CalculatorTests2" time="0.001"/>
+  <testcase name="testScore7()" classname="com.example.project.CalculatorTests2" time="0.001"/>
+  <testcase name="testScore8()" classname="com.example.project.CalculatorTests2" time="0.001"/>
+  <testcase name="testScore9()" classname="com.example.project.CalculatorTests2" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
